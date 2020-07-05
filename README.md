@@ -1,1 +1,2 @@
-# STAFABAND---Modern-UI-with-Java-Swing-GUI
+# stafaband-ui
+Modern user interface with Java Swing GUI.
